@@ -1,0 +1,382 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.token_eco"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:7:5-65
+12-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:8:22-78
+14
+15    <uses-feature
+15-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:10:5-12:36
+16        android:name="android.hardware.camera"
+16-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:11:9-47
+17        android:required="false" />
+17-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:12:9-33
+18
+19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+21-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+22-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:22-64
+23    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+23-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:24:5-68
+23-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:24:22-65
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+24-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:26:5-82
+24-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:26:22-79
+25
+26    <application
+26-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:14:5-116:19
+27        android:allowBackup="true"
+27-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:15:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\75a6c763a01fd02a6d6ea11569d9c415\core-1.1.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@drawable/logo_petit"
+30-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:16:9-44
+31        android:label="@string/app_name"
+31-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:17:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:18:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:19:9-35
+34        android:testOnly="true"
+35        android:theme="@style/Theme.AppCompat.NoActionBar" >
+35-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:20:9-59
+36        <activity android:name="com.example.token_eco.recompense_modification" />
+36-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:21:9-61
+36-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:21:19-58
+37
+38        <provider
+38-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:23:9-32:20
+39            android:name="androidx.core.content.FileProvider"
+39-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:24:13-62
+40            android:authorities="com.example.android.fileprovider"
+40-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:25:13-67
+41            android:exported="false"
+41-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:26:13-37
+42            android:grantUriPermissions="true" >
+42-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:27:13-47
+43            <meta-data
+43-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:28:13-30:54
+44                android:name="android.support.FILE_PROVIDER_PATHS"
+44-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:29:17-67
+45                android:resource="@xml/file_paths" />
+45-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:30:17-51
+46        </provider>
+47
+48        <activity
+48-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:34:9-37:56
+49            android:name="com.example.token_eco.objectif_modification"
+49-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:35:13-50
+50            android:screenOrientation="portrait" />
+50-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:36:13-49
+51        <activity
+51-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:38:9-41:56
+52            android:name="com.example.token_eco.PartageFragment2"
+52-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:39:13-45
+53            android:screenOrientation="portrait" />
+53-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:40:13-49
+54        <activity
+54-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:42:9-45:56
+55            android:name="com.example.token_eco.PartageFragment1"
+55-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:43:13-45
+56            android:screenOrientation="portrait" />
+56-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:44:13-49
+57        <activity
+57-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:46:9-49:56
+58            android:name="com.example.token_eco.Partage"
+58-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:47:13-36
+59            android:screenOrientation="portrait" />
+59-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:48:13-49
+60        <activity
+60-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:50:9-53:56
+61            android:name="com.example.token_eco.Notification"
+61-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:51:13-41
+62            android:screenOrientation="portrait" />
+62-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:52:13-49
+63        <activity
+63-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:54:9-57:56
+64            android:name="com.example.token_eco.aPropos"
+64-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:55:13-36
+65            android:screenOrientation="portrait" />
+65-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:56:13-49
+66        <activity
+66-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:58:9-61:56
+67            android:name="com.example.token_eco.compte"
+67-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:59:13-35
+68            android:screenOrientation="portrait" />
+68-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:60:13-49
+69        <activity
+69-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:62:9-65:56
+70            android:name="com.example.token_eco.recompense_creation"
+70-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:63:13-48
+71            android:screenOrientation="portrait" />
+71-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:64:13-49
+72        <activity
+72-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:66:9-69:56
+73            android:name="com.example.token_eco.recompense_detail"
+73-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:67:13-46
+74            android:screenOrientation="portrait" />
+74-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:68:13-49
+75        <activity
+75-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:70:9-73:56
+76            android:name="com.example.token_eco.recompense"
+76-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:71:13-39
+77            android:screenOrientation="portrait" />
+77-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:72:13-49
+78        <activity
+78-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:74:9-77:56
+79            android:name="com.example.token_eco.objectif_creation"
+79-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:75:13-46
+80            android:screenOrientation="portrait" />
+80-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:76:13-49
+81        <activity
+81-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:78:9-81:56
+82            android:name="com.example.token_eco.objectif_detail"
+82-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:79:13-44
+83            android:screenOrientation="portrait" />
+83-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:80:13-49
+84        <activity
+84-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:82:9-85:56
+85            android:name="com.example.token_eco.enfant"
+85-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:83:13-35
+86            android:screenOrientation="portrait" />
+86-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:84:13-49
+87        <activity
+87-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:86:9-89:56
+88            android:name="com.example.token_eco.enfant_modification"
+88-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:87:13-48
+89            android:screenOrientation="portrait" />
+89-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:88:13-49
+90        <activity
+90-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:90:9-93:56
+91            android:name="com.example.token_eco.enfant_creation"
+91-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:91:13-44
+92            android:screenOrientation="portrait" />
+92-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:92:13-49
+93        <activity
+93-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:94:9-97:56
+94            android:name="com.example.token_eco.creation_compte"
+94-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:95:13-44
+95            android:screenOrientation="portrait" />
+95-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:96:13-49
+96        <activity
+96-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:98:9-101:56
+97            android:name="com.example.token_eco.accueil"
+97-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:99:13-36
+98            android:screenOrientation="portrait" />
+98-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:100:13-49
+99        <activity
+99-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:102:9-111:20
+100            android:name="com.example.token_eco.connexion"
+100-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:103:13-38
+101            android:screenOrientation="portrait" >
+101-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:104:13-49
+102            <intent-filter>
+102-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:106:13-110:29
+103                <action android:name="android.intent.action.MAIN" />
+103-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:107:17-69
+103-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:107:25-66
+104
+105                <category android:name="android.intent.category.LAUNCHER" />
+105-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:109:17-77
+105-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:109:27-74
+106            </intent-filter>
+107        </activity>
+108
+109        <meta-data
+109-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:113:9-115:57
+110            android:name="preloaded_fonts"
+110-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:114:13-43
+111            android:resource="@array/preloaded_fonts" />
+111-->C:\Users\diego\Documents\token_eco\app\src\main\AndroidManifest.xml:115:13-54
+112
+113        <activity
+113-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+114            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+114-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+115            android:excludeFromRecents="true"
+115-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+116            android:exported="true"
+116-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+117            android:launchMode="singleTask"
+117-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+118            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+118-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+119            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+119-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+120
+121        <service
+121-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+122            android:name="com.google.firebase.components.ComponentDiscoveryService"
+122-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
+123            android:directBootAware="true"
+123-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+124            android:exported="false" >
+124-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
+125            <meta-data
+125-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+126                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+126-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\25a4eaa83465cbd52e6f4f42c964f51c\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+128            <meta-data
+128-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+129                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+129-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.firebase:firebase-database:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\56ab89cf2f8a3321818ee48bb8ffbb26\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+131            <meta-data
+131-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\9d42d2401b0174898d8503aae418caaf\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+132                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+132-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\9d42d2401b0174898d8503aae418caaf\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\9d42d2401b0174898d8503aae418caaf\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+134            <meta-data
+134-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:39:13-41:85
+135                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+135-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:40:17-119
+136                android:value="com.google.firebase.components.ComponentRegistrar" />
+136-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:41:17-82
+137            <meta-data
+137-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:32:13-34:85
+138                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+138-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:33:17-96
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:34:17-82
+140            <meta-data
+140-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\acbca68b12d0b245243af2ef82cda9c9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+141                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+141-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\acbca68b12d0b245243af2ef82cda9c9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+142                android:value="com.google.firebase.components.ComponentRegistrar" />
+142-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\acbca68b12d0b245243af2ef82cda9c9\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+143            <meta-data
+143-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\785bc672bdd60e383bb98326d2a9f651\jetified-firebase-installations-16.3.1\AndroidManifest.xml:17:13-19:85
+144                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+144-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\785bc672bdd60e383bb98326d2a9f651\jetified-firebase-installations-16.3.1\AndroidManifest.xml:18:17-127
+145                android:value="com.google.firebase.components.ComponentRegistrar" />
+145-->[com.google.firebase:firebase-installations:16.3.1] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\785bc672bdd60e383bb98326d2a9f651\jetified-firebase-installations-16.3.1\AndroidManifest.xml:19:17-82
+146        </service>
+147        <!--
+148             FirebaseMessagingService performs security checks at runtime,
+149             but set to not exported to explicitly avoid allowing another app to call it.
+150        -->
+151        <service
+151-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:28:9-35:19
+152            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+152-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:29:13-82
+153            android:directBootAware="true"
+153-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:30:13-43
+154            android:exported="false" >
+154-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:31:13-37
+155            <intent-filter android:priority="-500" >
+155-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:32:13-34:29
+155-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:32:28-51
+156                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+156-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:33:17-78
+156-->[com.google.firebase:firebase-messaging:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\7ef3b9e6b4c1ef6a3b3bdaa733936a38\jetified-firebase-messaging-20.2.0\AndroidManifest.xml:33:25-75
+157            </intent-filter>
+158        </service>
+159
+160        <receiver
+160-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:37:9-44:20
+161            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+161-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:38:13-78
+162            android:exported="true"
+162-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:39:13-36
+163            android:permission="com.google.android.c2dm.permission.SEND" >
+163-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:40:13-73
+164            <intent-filter>
+164-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:41:13-43:29
+165                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+165-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:42:17-81
+165-->[com.google.firebase:firebase-iid:20.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\aa7d7b506f130e2cb56c99d326883795\jetified-firebase-iid-20.2.0\AndroidManifest.xml:42:25-78
+166            </intent-filter>
+167        </receiver>
+168
+169        <activity
+169-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\db12ac4682677f5fc50784185e426fd8\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+170            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+170-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\db12ac4682677f5fc50784185e426fd8\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+171            android:exported="false"
+171-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\db12ac4682677f5fc50784185e426fd8\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+172-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\db12ac4682677f5fc50784185e426fd8\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+173
+174        <provider
+174-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+175            android:name="com.google.firebase.provider.FirebaseInitProvider"
+175-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+176            android:authorities="com.example.token_eco.firebaseinitprovider"
+176-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+177            android:exported="false"
+177-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+178            android:initOrder="100" />
+178-->[com.google.firebase:firebase-common:19.3.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\34bad9e037bf7b8b675ce32054557351\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+179
+180        <meta-data
+180-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\15a7c4be35c19fe914f8bdf0b75c8fc8\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+181            android:name="com.google.android.gms.version"
+181-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\15a7c4be35c19fe914f8bdf0b75c8fc8\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+182            android:value="@integer/google_play_services_version" />
+182-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\15a7c4be35c19fe914f8bdf0b75c8fc8\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+183
+184        <provider
+184-->[com.squareup.picasso:picasso:2.71828] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0932db857517bb2ef879969f0d5be570\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+185            android:name="com.squareup.picasso.PicassoProvider"
+185-->[com.squareup.picasso:picasso:2.71828] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0932db857517bb2ef879969f0d5be570\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+186            android:authorities="com.example.token_eco.com.squareup.picasso"
+186-->[com.squareup.picasso:picasso:2.71828] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0932db857517bb2ef879969f0d5be570\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+187            android:exported="false" />
+187-->[com.squareup.picasso:picasso:2.71828] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0932db857517bb2ef879969f0d5be570\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+188
+189        <service
+189-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+190            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+190-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+191            android:exported="false" >
+191-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+192            <meta-data
+192-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+193                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+193-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+194                android:value="cct" />
+194-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\94b3474d02ef12d0ae29b0a748d2db1c\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+195        </service>
+196        <service
+196-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+197            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+197-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+198            android:exported="false"
+198-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+199            android:permission="android.permission.BIND_JOB_SERVICE" >
+199-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+200        </service>
+201
+202        <receiver
+202-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+203            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+203-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+204            android:exported="false" />
+204-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\diego\.gradle\caches\transforms-2\files-2.1\0eee661f0f30dcab2acf0a6b0535b7ca\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+205    </application>
+206
+207</manifest>
