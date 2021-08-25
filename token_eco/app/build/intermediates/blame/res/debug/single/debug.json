@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_window.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bravo2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\bravo2.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau6.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau6.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant3.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant3.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_window2.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\popup_window2.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar4.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar4.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recompense_modification.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_recompense_modification.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enfant_creation.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_enfant_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_enfant_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\enfant_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_objectif_creation.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_objectif_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_fullscreen.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\image_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_images.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\item_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto7.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar5.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar5.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recompense.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_recompense.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau7.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau7.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_objectif_modification.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_objectif_modification.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant4.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant4.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_bold.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\font\\quicksand_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logov2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\logov2.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bravo1.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\bravo1.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar3.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar3.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto1.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_log_out.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_log_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_petit.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\logo_petit.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alert_dialog_background.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\alert_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto8.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau8.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau8.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto6.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment1_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\fragment1_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar7.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar7.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau5.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau5.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant6.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant6.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enfant_modification.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_enfant_modification.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau2.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unsync.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_unsync.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar1.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar1.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enfant.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_enfant.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto3.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_objectif_detail.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_objectif_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bravo3.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\bravo3.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_connexion.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_connexion.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_jetons_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\jetons_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar8.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar8.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_partage_fragment1.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_partage_fragment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant7.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant7.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau3.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau3.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto4.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_objectif_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\objectif_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creation_compte.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_creation_compte.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_border.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\tab_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\fragment2_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant1.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant1.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto5.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_partage_fragment2.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_partage_fragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_a_propos.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_a_propos.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau4.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau4.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_partage.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_partage.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar6.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar6.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jeton.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\jeton.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bravo4.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\bravo4.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compte.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_compte.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_picto2.jpg.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\picto2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notif_border.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\notif_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_black_24dp.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\ic_check_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau1.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau1.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accueil.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant8.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant8.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\avatar2.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recompense_creation.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_recompense_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant5.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant5.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border2.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enfant2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\enfant2.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadeau.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\cadeau.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recompense_detail.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\activity_recompense_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_cadeau_item.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\cadeau_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\diego\\Documents\\token_eco\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back2.png.flat",
+        "source": "C:\\Users\\diego\\Documents\\token_eco\\app\\src\\main\\res\\drawable\\back2.png"
+    }
+]
