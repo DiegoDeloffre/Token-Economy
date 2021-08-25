@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="token_eco/app" />
+      <module fileurl="file://$PROJECT_DIR$/token_eco.iml" filepath="$PROJECT_DIR$/token_eco.iml" group="token_eco" />
+    </modules>
+  </component>
+</project>

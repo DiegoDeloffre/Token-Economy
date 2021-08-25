@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dc5a462-2e0e-4ce7-a476-ed3997062830" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3bc7ccff" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1cQAAMTmqGaLSqhe8E1FYx1TQaD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="3bc7ccff" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-24T16:52:27.826Z" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.token_eco" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\Documents\token_eco\app\src\main\res\drawable" />
+      <recent name="C:\Users\diego\Documents\token_eco\app\src\main\res\layout" />
+      <recent name="C:\Users\diego\Documents\token_eco\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.token_eco.accueil" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="Android App.app" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dc5a462-2e0e-4ce7-a476-ed3997062830" name="Default Changelist" comment="" />
+      <created>1590450298349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590450298349</updated>
+    </task>
+    <task id="LOCAL-00042" summary="page partage">
+      <created>1591356568488</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1591356568488</updated>
+    </task>
+    <task id="LOCAL-00043" summary="page a propos + alertDialog style">
+      <created>1591365717116</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1591365717116</updated>
+    </task>
+    <task id="LOCAL-00044" summary="logo">
+      <created>1591375206568</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1591375206568</updated>
+    </task>
+    <task id="LOCAL-00045" summary="logo">
+      <created>1591376797469</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1591376797469</updated>
+    </task>
+    <task id="LOCAL-00046" summary="logo">
+      <created>1591384770773</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1591384770773</updated>
+    </task>
+    <task id="LOCAL-00047" summary="bouton modifier">
+      <created>1591623494563</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1591623494563</updated>
+    </task>
+    <task id="LOCAL-00048" summary="modif menu">
+      <created>1591627789023</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1591627789023</updated>
+    </task>
+    <task id="LOCAL-00049" summary="ouii">
+      <created>1591629947636</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1591629947636</updated>
+    </task>
+    <task id="LOCAL-00050" summary="reactivation + suppression objectifs et récompenses">
+      <created>1591632634126</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1591632634127</updated>
+    </task>
+    <task id="LOCAL-00051" summary="modif enfant">
+      <created>1591639254097</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1591639254097</updated>
+    </task>
+    <task id="LOCAL-00052" summary="MENU PAGE DE PARTAGE">
+      <created>1591640483883</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1591640483883</updated>
+    </task>
+    <task id="LOCAL-00053" summary="INPUT TYPE MAIL POUR LE PARTAGE">
+      <created>1591641129412</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1591641129412</updated>
+    </task>
+    <task id="LOCAL-00054" summary="@ dans le clavier du partage">
+      <created>1591641613724</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1591641613725</updated>
+    </task>
+    <task id="LOCAL-00055" summary="vie de moi le menu il marche là">
+      <created>1591642063980</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1591642063980</updated>
+    </task>
+    <task id="LOCAL-00056" summary="correction menu">
+      <created>1591712934656</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1591712934656</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fix affichages + layout only vertical">
+      <created>1591791051927</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1591791051929</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Listes à la place des tableaux (SATISFAIT HUGO MAINTENANT ?????)">
+      <created>1591792030063</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1591792030063</updated>
+    </task>
+    <task id="LOCAL-00059" summary="debut image (1% à peu près)">
+      <created>1591815470625</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1591815470626</updated>
+    </task>
+    <task id="LOCAL-00060" summary="image suite (4%)">
+      <created>1591822178335</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1591822178336</updated>
+    </task>
+    <task id="LOCAL-00061" summary="image suite (4.32%)">
+      <created>1591823507882</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1591823507882</updated>
+    </task>
+    <task id="LOCAL-00062" summary="petits fix graphiques">
+      <created>1591830304001</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1591830304002</updated>
+    </task>
+    <task id="LOCAL-00063" summary="avatars enfant">
+      <created>1591898465661</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1591898465662</updated>
+    </task>
+    <task id="LOCAL-00064" summary="choix design bravo layout">
+      <created>1591899264909</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1591899264909</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fix images">
+      <created>1591906327044</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1591906327045</updated>
+    </task>
+    <task id="LOCAL-00066" summary="images suite">
+      <created>1591912820170</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1591912820172</updated>
+    </task>
+    <task id="LOCAL-00067" summary="images bravos et enfants">
+      <created>1591914481869</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1591914481869</updated>
+    </task>
+    <task id="LOCAL-00068" summary="images en png">
+      <created>1591914977264</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1591914977264</updated>
+    </task>
+    <task id="LOCAL-00069" summary="petits fix layout">
+      <created>1591921154390</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1591921154390</updated>
+    </task>
+    <task id="LOCAL-00070" summary="nom appli">
+      <created>1591921299253</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1591921299253</updated>
+    </task>
+    <task id="LOCAL-00071" summary="image jeton debut">
+      <created>1591924455124</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1591924455125</updated>
+    </task>
+    <task id="LOCAL-00072" summary="fin des images + fix layouts">
+      <created>1591968685694</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1591968685695</updated>
+    </task>
+    <task id="LOCAL-00073" summary="fix layouts">
+      <created>1591972047641</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1591972047641</updated>
+    </task>
+    <task id="LOCAL-00074" summary="fix popup bouton">
+      <created>1591982953331</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1591982953331</updated>
+    </task>
+    <task id="LOCAL-00075" summary="fix sélection images">
+      <created>1591984139734</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1591984139734</updated>
+    </task>
+    <task id="LOCAL-00076" summary="ajout pictogrammes">
+      <created>1591997995541</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1591997995541</updated>
+    </task>
+    <task id="LOCAL-00077" summary="picto suite">
+      <created>1591999359228</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1591999359228</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Changement de police du titre de partage (pour les stats de commits)">
+      <created>1592010378156</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1592010378157</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Test">
+      <created>1592401282965</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1592401282965</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Test2">
+      <created>1592401602838</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1592401602838</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Test3">
+      <created>1592401696601</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1592401696601</updated>
+    </task>
+    <task id="LOCAL-00082" summary="image fit">
+      <created>1592404365810</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1592404365810</updated>
+    </task>
+    <task id="LOCAL-00083" summary="image fit2">
+      <created>1592407799374</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1592407799374</updated>
+    </task>
+    <task id="LOCAL-00084" summary="image fit2.1">
+      <created>1592407899148</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1592407899148</updated>
+    </task>
+    <task id="LOCAL-00085" summary="suppression images">
+      <created>1592503524242</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1592503524243</updated>
+    </task>
+    <task id="LOCAL-00086" summary="modifications recompenses + du style">
+      <created>1592508880348</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1592508880348</updated>
+    </task>
+    <task id="LOCAL-00087" summary="nouvelles images + fix eventListener">
+      <created>1592510038891</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1592510038891</updated>
+    </task>
+    <task id="LOCAL-00088" summary="full modifs + delete classe Upload inutile (reset images bdd)">
+      <created>1592517482592</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1592517482593</updated>
+    </task>
+    <task id="LOCAL-00089" summary="correction des erreurs d'Hugo">
+      <created>1593008947224</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1593008947225</updated>
+    </task>
+    <task id="LOCAL-00090" summary="espace dans le recyclerView">
+      <created>1593009113996</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1593009113996</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="images suite" />
+    <MESSAGE value="images bravos et enfants" />
+    <MESSAGE value="images en png" />
+    <MESSAGE value="petits fix layout" />
+    <MESSAGE value="nom appli" />
+    <MESSAGE value="image jeton debut" />
+    <MESSAGE value="fin des images + fix layouts" />
+    <MESSAGE value="fix layouts" />
+    <MESSAGE value="fix popup bouton" />
+    <MESSAGE value="fix sélection images" />
+    <MESSAGE value="ajout pictogrammes" />
+    <MESSAGE value="picto suite" />
+    <MESSAGE value="Changement de police du titre de partage (pour les stats de commits)" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Test2" />
+    <MESSAGE value="Test3" />
+    <MESSAGE value="image fit" />
+    <MESSAGE value="image fit2" />
+    <MESSAGE value="image fit2.1" />
+    <MESSAGE value="suppression images" />
+    <MESSAGE value="modifications recompenses + du style" />
+    <MESSAGE value="nouvelles images + fix eventListener" />
+    <MESSAGE value="full modifs + delete classe Upload inutile (reset images bdd)" />
+    <MESSAGE value="correction des erreurs d'Hugo" />
+    <MESSAGE value="espace dans le recyclerView" />
+    <option name="LAST_COMMIT_MESSAGE" value="espace dans le recyclerView" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="7" key="CommitChangelistDialog2" timestamp="1593009112771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="7" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593009112771" />
+    <state width="1478" height="289" key="GridCell.Tab.0.bottom" timestamp="1593017722041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593017555526" />
+    <state width="1478" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593017722041" />
+    <state width="1478" height="289" key="GridCell.Tab.0.center" timestamp="1593017722041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="289" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593017555525" />
+    <state width="1478" height="289" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593017722041" />
+    <state width="1478" height="289" key="GridCell.Tab.0.left" timestamp="1593017722041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="289" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593017555525" />
+    <state width="1478" height="289" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593017722041" />
+    <state width="1478" height="289" key="GridCell.Tab.0.right" timestamp="1593017722041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="289" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593017555526" />
+    <state width="1478" height="289" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593017722041" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593009116687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593009116687" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593008427571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593008427571" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593008431223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1593008431223" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1592688228584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/token_eco/recompense_creation.java</url>
+          <line>223</line>
+          <properties class="com.example.token_eco.recompense_creation" method="onButtonShowPopupWindowClick">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
